@@ -4,7 +4,7 @@
 ******NOTICE******
 MUST set SDK_PATH & BIN_PATH firstly!!!
 example:
-export SDK_PATH=~/esp_iot_sdk_freertos
+export SDK_PATH=~/esp_rtos_sdk
 export BIN_PATH=~/esp8266_bin
 !
 
